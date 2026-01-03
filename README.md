@@ -1,5 +1,5 @@
 # 💫 About Me:
-i m currently working on data science projects<br>i m MERN stack developer <br>i m currently learning Machine learning and neural networks <br>
+I am currently working on Data Science <br>I am MERN stack developer <br>I am currently learning Machine learning and Deep Learning <br>
 
 
 ## 🌐 Socials:
